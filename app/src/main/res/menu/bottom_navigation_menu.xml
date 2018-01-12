@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_home"
+        android:icon="@mipmap/icon_tab_home"
+        android:title="新闻" />
+    <item
+        android:id="@+id/item_shopping"
+        android:icon="@mipmap/icon_tab_goods"
+        android:title="商城" />
+    <item
+        android:id="@+id/item_order"
+        android:icon="@mipmap/icon_tab_order"
+        android:title="订单" />
+    <item
+        android:id="@+id/item_mine"
+        android:icon="@mipmap/icon_tab_mine"
+        android:title="我" />
+</menu>
